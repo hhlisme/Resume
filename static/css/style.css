@@ -191,8 +191,8 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('https://avatars0.githubusercontent.com/u/21081491?v=3&s=460');
-    background-size: 120%;
+    background-image:url('http://on5sat100.bkt.clouddn.com/HHL_Photo.JPG');
+    background-size: 76%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 1800px;
     background-color: white;
 
 }
@@ -274,6 +274,8 @@ ul li{
     margin-right: 2px;
     visibility: hidden;
     cursor: pointer;
+	text-align:justify;
+    text-align-last:justify;
     
 }
 
@@ -286,5 +288,15 @@ ul li{
     cursor: pointer;
     
 }
+
+.divcss5{
+	text-indent:35px;
+	}
+
+
+
+
+
+
 
 
